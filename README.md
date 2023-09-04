@@ -18,4 +18,8 @@ N/A
 
 ## Screenshot of site
 
+![Alt text](<Screenshot 2023-09-04 at 12.31.03 AM.png>)
+
 ## Link to deployed app
+
+https://nlad218.github.io/workday-planner/
